@@ -2,7 +2,7 @@
 
 
 
-# Hello ⚡️, I'm [Divyansh](https://github.com/divyansh9979)
+# Hello ⚡️, I'm [Divyansh Mittal](https://github.com/divyansh9979)
 
 ![gh-profile-banner](/media/name-banner.png)
 
@@ -11,7 +11,7 @@
 
 
 
-Welcome to my profile! I'm a Software Engineer at Ford Motors, where I have gained experience in technologies such as **Java** along with **SpringBoot Framework**, and **MySql** and **MongoDB** for database management. Along with these, I've been working with Versioning tools like **Git** and CI/CD pipelines such as **Jenkins** and **AWS**.
+Welcome to my profile! I'm a Software Engineer at Ford Motors, where I have gained experience in technologies such as **Java** along with **SpringBoot Framework**, and **MySql** and **MongoDB** for database management. Along with these, I've been working with Versioning tools like **Git** and CI/CD pipelines such as **Jenkins** and **GCP**.
 
 
 ### 👨🏻‍💻 About Me
