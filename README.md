@@ -11,25 +11,25 @@
 
 
 
-Welcome to my profile! I'm a Software Engineer at Ford Motors, where I have gained experience in technologies such as **Java** along with **SpringBoot Framework**, and **MySql** and **MongoDB** for database management. Along with these, I've been working with Versioning tools like **Git** and CI/CD pipelines such as **Jenkins** and **GCP**.
+Welcome to my profile! I'm a Software Engineer at Ford Motor, where I have gained experience in technologies such as **Java** along with **SpringBoot Framework**, and **SQL** and **GCP** for storage management. Along with these, I've been working with Versioning tools like **Git** and CI/CD pipelines such as **Jenkins** and **Google Cloud Run**.
 
 
 ### 👨🏻‍💻 About Me
 
 
-- <img alt="Hyper Kitty" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/hyperkitty.gif" width="30px" > Interested in __full-stack web development.__
+- <img alt="Hyper Kitty" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/hyperkitty.gif" width="30px" > Interested in __full-stack development.__
 
 
 
 <img align="right" alt="Chibi Cat Lover" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/manherakun-cat-min.gif" width="150">
 
-- <img alt="Cat Computer" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-computer.gif" width="30px"> Currently working on my __personal projects__ and  enhancing my __web development knowledge.__
+- <img alt="Cat Computer" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-computer.gif" width="30px"> Currently working on my __personal projects__ and  enhancing my __backend development knowledge.__
 
 
 <!--  - 👯 I’m looking to collaborate on **OpenSource Projects**  -->
 
 
-- <img alt="Cat Meme" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-meme.gif" width="30px"> Fun facts :  __The most common activities I engage in, aside from learning web development and technologies, is watching series and movies.__
+- <img alt="Cat Meme" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/cat-meme.gif" width="30px"> Fun facts :  __The most common activities I engage in, aside from learning web development and technologies, is working out, trying to keep myself fit and watching some good series and movies.__
 
 
 
